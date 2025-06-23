@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d1586e7.css",
+    "main.js": "/static/js/main.313575af.js",
+    "static/media/cool-background.png": "/static/media/cool-background.8c252db8e4acab4196d4.png",
+    "static/media/tesla.png": "/static/media/tesla.07f612597196a0c119d9.png",
+    "static/media/sap.jpeg": "/static/media/sap.b2bc7f8625809466165a.jpeg",
+    "static/media/flp.jpeg": "/static/media/flp.5f02dfcba9db57b63d0b.jpeg",
+    "static/media/synopsys.png": "/static/media/synopsys.bea76ee6b322b1da4d3d.png",
+    "static/media/oracle.png": "/static/media/oracle.c07667e36b072b6a4208.png",
+    "static/media/amazon.png": "/static/media/amazon.138c5b5e99765ffac1a1.png",
+    "static/media/tcs.webp": "/static/media/tcs.a7873527060d53dadef1.webp",
+    "static/media/accenture.jpeg": "/static/media/accenture.efd3e5718eac1fbe59e7.jpeg",
+    "static/media/paytm.png": "/static/media/paytm.fd7bf2f466023f3c3ace.png",
+    "static/media/ibm.jpeg": "/static/media/ibm.b700f9aef98d6a67d5ad.jpeg",
+    "static/media/cognizant.webp": "/static/media/cognizant.322b3a8a75fff5cbbc7d.webp",
+    "index.html": "/index.html",
+    "main.1d1586e7.css.map": "/static/css/main.1d1586e7.css.map",
+    "main.313575af.js.map": "/static/js/main.313575af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d1586e7.css",
+    "static/js/main.313575af.js"
+  ]
+}
